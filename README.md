@@ -19,9 +19,10 @@
 5. *備註：本專案已設定 `.gitignore`，因此倉庫內不含 `bin/` 與 `obj/` 暫存檔。編譯時系統會自動產生所需的執行環境。*
 
 ## 📸 遊戲畫面截圖 (Screenshots)
-*(請將您的截圖命名為 board.png 與 victory.png 並放置於資料夾中以顯示下方圖片)*
 
-![遊戲畫面與結算畫面](<img width="888" height="512" alt="image" src="https://github.com/user-attachments/assets/a54d827b-69fa-499f-a0b4-7028c67f1430" />
+
+![遊戲畫面與結算畫面](<img width="869" height="527" alt="image" src="https://github.com/user-attachments/assets/dc2957a2-1d51-4cd2-8a9c-f8d406912359" />
+>
 )
 > 15x15 標準五子棋盤，帶有星位與天元標示，棋子具備立體反光效果。
 客製化結算視窗，帶有金色勝利提示字樣以及重新開始/離開按鈕。

@@ -22,7 +22,8 @@
 
 
 <img width="869" height="527" alt="image" src="https://github.com/user-attachments/assets/dc2957a2-1d51-4cd2-8a9c-f8d406912359" />
- 15x15 標準五子棋盤，帶有星位與天元標示，棋子具備立體反光效果。
+
+15x15 標準五子棋盤，帶有星位與天元標示，棋子具備立體反光效果。
 客製化結算視窗，帶有金色勝利提示字樣以及重新開始/離開按鈕。
 
 ## 🛠️ 技術架構 (Technologies)

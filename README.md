@@ -21,7 +21,7 @@
 ## 📸 遊戲畫面截圖 (Screenshots)
 
 
-![遊戲畫面與結算畫面](<img width="869" height="527" alt="image" src="https://github.com/user-attachments/assets/dc2957a2-1d51-4cd2-8a9c-f8d406912359" />
+!(<img width="869" height="527" alt="image" src="https://github.com/user-attachments/assets/dc2957a2-1d51-4cd2-8a9c-f8d406912359" />
 >
 )
 > 15x15 標準五子棋盤，帶有星位與天元標示，棋子具備立體反光效果。
